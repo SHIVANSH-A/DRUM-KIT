@@ -53,3 +53,11 @@ drum-kit/
 │   ├── crash.png
 │   └── kick.png
 └── README.md          # Project documentation
+
+```
+---
+
+## How It Works
+-**HTML**: Contains the layout of the drum kit with buttons representing different drum sounds.
+-**CSS**: Styles the page and applies button animations (such as shadow effects and button press styles).
+-**JavaScript/jQuery**: Handles user interaction by detecting clicks and key presses, playing corresponding drum sounds, and adding button animations.
